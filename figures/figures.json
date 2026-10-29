@@ -1,0 +1,14 @@
+{
+ "null_obs_deg": 6.57430391208095,
+ "null_p": 0.0064,
+ "slice6_window": [
+  "22 Aug",
+  "6 Oct"
+ ],
+ "raven": {
+  "Gienah": "30 Sep",
+  "Kraz": "6 Oct",
+  "Algorab": "2 Oct",
+  "Minkar": "2 Oct"
+ }
+}

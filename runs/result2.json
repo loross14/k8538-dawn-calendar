@@ -1,0 +1,126 @@
+{
+ "EIGHTHS": {
+  "8": {
+   "score": 0.108,
+   "p_uniform": 0.00645,
+   "p_round": 0.00535,
+   "readings": [
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d"
+   ]
+  },
+  "7": {
+   "score": 0.105,
+   "p_uniform": 0.0079,
+   "p_round": 0.0057,
+   "readings": [
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d"
+   ]
+  }
+ },
+ "MONTHS": {
+  "8": {
+   "score": 0.301,
+   "p_uniform": 0.2412,
+   "p_round": 0.32015,
+   "readings": [
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d"
+   ]
+  },
+  "7": {
+   "score": 0.301,
+   "p_uniform": 0.26205,
+   "p_round": 0.3439,
+   "readings": [
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d"
+   ]
+  }
+ },
+ "STAR GAPS": {
+  "8": {
+   "score": 0.034,
+   "p_uniform": 0.3044,
+   "p_round": 0.3367,
+   "readings": [
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d"
+   ]
+  },
+  "7": {
+   "score": 0.035,
+   "p_uniform": 0.34565,
+   "p_round": 0.3775,
+   "readings": [
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d"
+   ]
+  }
+ },
+ "CALENDAR": {
+  "8": {
+   "score": 0.294,
+   "p_uniform": 0.71125,
+   "p_round": 0.782,
+   "readings": [
+    "x d",
+    "x d",
+    "60x U\u0160",
+    "x d",
+    "x d",
+    "x d",
+    "x d",
+    "x d"
+   ]
+  },
+  "7": {
+   "score": 0.299,
+   "p_uniform": 0.72885,
+   "p_round": 0.79775,
+   "readings": [
+    "x d",
+    "x d",
+    "60x U\u0160",
+    "x d",
+    "x d",
+    "x d",
+    "x d"
+   ]
+  }
+ }
+}

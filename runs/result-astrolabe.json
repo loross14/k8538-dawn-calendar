@@ -1,0 +1,15 @@
+{
+ "miss": 0.0,
+ "start": 110,
+ "direction": 1,
+ "per_crib": {
+  "Orion (SIPA.ZI.AN.NA)": 0.0,
+  "Great Twins (MAS.TAB.BA.GAL.GAL)": 0.0,
+  "Raven (UGA.MUSEN)": 0.0
+ },
+ "p": 0.221,
+ "dropped": [
+  "APIN (no MUL.APIN rising date found)",
+  "Anunitum (no MUL.APIN rising date found)"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "dropped": [],
+ "time-eighths (new thesis)": {
+  "miss": 6.57430391208095,
+  "p": 0.006,
+  "n_null": 2000
+ },
+ "solar-longitude eighths (old wheel)": {
+  "miss": 3.274196056590256,
+  "p": 0.011,
+  "n_null": 2000
+ }
+}
